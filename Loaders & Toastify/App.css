@@ -1,0 +1,14 @@
+.head {
+    background-color: rgb(171, 235, 157);
+    text-align: center;
+    padding: 10px;
+}
+.main {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+}
+
